@@ -1,0 +1,60 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 11/06/2016, 10:53:00 AM
+    Author     : Arnold Jair Jimenez Vargas
+*/
+
+body {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.nav {
+    margin-top: 30px;
+    padding-bottom: 50px;
+}
+
+.icono {
+    float: left;
+}
+.nav ul {
+    list-style: none;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+    float: right;
+}
+.nav li {
+    font-size: 1.2em;
+    line-height: 40px;
+    height: 40px;
+    display: inline-block;
+}
+
+.nav a {
+    text-decoration: none;
+    display: block;
+}
+
+.section {
+    padding-top: 30px;
+    padding-bottom: 50px;
+    border-bottom: 0.5px solid ;
+}
+
+.secL{
+    width: 48%;
+    border: 0.5px solid;
+    padding: 5px;
+    float: left;
+}
+.secR{
+    width: 48%;
+    border: 0.5px solid;
+    padding: 5px;
+    float: right;
+}
